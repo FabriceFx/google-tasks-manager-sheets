@@ -3,7 +3,7 @@
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Platform](https://img.shields.io/badge/Platform-Google%20Workspace-green)
 ![Runtime](https://img.shields.io/badge/Script-V8%20Engine-f39f37)
-![Status](https://img.shields.io/badge/Status-Production-success)
+![Author](https://img.shields.io/badge/Auteur-Fabrice%20Faucheux-orange)
 
 **Une solution complète de gestion de tâches synchronisée bidirectionnellement entre Google Sheets et Google Tasks.**
 
