@@ -1,9 +1,15 @@
 # Google Tasks Manager for Sheets
 
+
+[🇫🇷 Version Française](#-version-française) | [🇬🇧 English Version](#-english-version)
+
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Platform](https://img.shields.io/badge/Platform-Google%20Workspace-green)
 ![Runtime](https://img.shields.io/badge/Script-V8%20Engine-f39f37)
 ![Author](https://img.shields.io/badge/Auteur-Fabrice%20Faucheux-orange)
+
+## 🇫🇷 Version Française
+
 
 **Une solution complète de gestion de tâches synchronisée bidirectionnellement entre Google Sheets et Google Tasks.**
 
@@ -80,3 +86,12 @@ Une fois le script installé, rechargez votre Google Sheet. Un menu **"Gestion d
 ## 📄 Licence
 
 Distribué sous la licence MIT. Voir `LICENSE` pour plus d'informations.
+
+
+---
+## 🇬🇧 English Version
+
+> English translation coming soon.
+
+---
+<p align="center"><a href="https://faucheux.bzh" target="_blank" style="color: inherit; text-decoration: none;">&lt;&gt; par Fabrice Faucheux</a></p>
